@@ -1,6 +1,0 @@
-six
-fire
-tensorflow
-keras
-numpy
-absl-py
