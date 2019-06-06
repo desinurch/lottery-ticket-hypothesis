@@ -1,0 +1,5 @@
+iteration,1,train_loss,2.3095510005950928,train_accuracy,0.046875
+iteration,2,train_loss,2.3115806579589844,train_accuracy,0.015625
+iteration,3,train_loss,2.305501937866211,train_accuracy,0.125
+iteration,4,train_loss,2.299123525619507,train_accuracy,0.140625
+iteration,5,train_loss,2.2982211112976074,train_accuracy,0.15625

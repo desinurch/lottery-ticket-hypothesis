@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: lottery-ticket
+Version: 1
+Summary: An implementation of the lottery_ticket ticket hypothesis experiment.
+Home-page: UNKNOWN
+Author: Jonathan Frankle
+Author-email: jfrankle@google.com
+License: Apache Software License
+Description: UNKNOWN
+Keywords: lottery_ticket ticket hypothesis
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Operating System :: OS Independent
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Unix
